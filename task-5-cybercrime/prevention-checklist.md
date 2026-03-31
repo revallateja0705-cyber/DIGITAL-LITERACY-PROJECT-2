@@ -31,3 +31,9 @@ Regularly update your phone/laptop software and install antivirus protection to 
 If you face fraud or cybercrime, report it at:
 - **National Cyber Crime Portal:** https://cybercrime.gov.in  
 - **Helpline:** 1930
+
+While researching cybercrime and online safety, what surprised me the most was how easily scammers manipulate people using simple tactics like fake links, urgent messages, and UPI “collect requests.” I realized that many attacks do not require advanced technical skills—just psychological tricks and carelessness from users. It was also alarming to learn how quickly financial fraud can happen and how difficult it can be to recover lost money if action is not taken immediately.
+
+As a result of this research, one habit I will personally change is being more cautious before clicking on links or approving any online payment request. I will always verify the source, double-check UPI details, and avoid sharing sensitive information like OTPs or passwords under any circumstances. Adopting these practices will help me stay safer online and reduce the risk of falling victim to cybercrime.
+
+
