@@ -53,5 +53,5 @@ REVALLA TEJASWARA RAO
 Reg No: 25MEI10038 
 COMPUTER SCIENCE AND ENGINEERING  
 2025 Batch    
-Email: chittela.25mim10202@vitbhopal.ac.in  
-Phone: 9392624755  
+Email: revalla.25mei10038@vitbhopal.ac.in
+Phone: 8121514578 
